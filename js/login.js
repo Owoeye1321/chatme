@@ -20,7 +20,7 @@ $("#Login").click(function(){
 $(".forget_password").click(function(){
 alert('Firstly why would you forget your password !!! \nPlease dont stress me !!\nTry to remenber it yourself please! ')
 
-})
+}) 
 
 
 $("#log").click(function(){
@@ -43,7 +43,7 @@ $("#bring").click(function(){
  
  $("#take").show();
 $("#bring").hide();
- $("#content").Toggle();
+ $("#content").show();
 
 })
 
@@ -53,7 +53,7 @@ $("#take").click(function(){
  
  $("#take").hide();
 $("#bring").show();
- $("#content").fadeOut();
+ $("#content").show();
 
 })
 

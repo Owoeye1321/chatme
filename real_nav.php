@@ -35,7 +35,7 @@
                       <div style=" margin-top:6px;float: left;margin-left: 3px;">
                      	 	 <b style="font-size: 20px;">2020 election</b>
 
-                     	 </div>
+                     	 </div> 
 
                      	  <div id="bring" style="float: right; margin-top: 7px;margin-right: 10px;">
                      	  	 <img   style=" opacity: 0.7;" src="img/menu.png">
@@ -76,3 +76,8 @@
 
 
 
+
+  <?php
+  include 'footer.php';
+
+  ?>
